@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>1954.tif</filename>
+		<origin>GF3</origin>
+	</source>
+	<research>
+		<version>4.0</version>
+		<provider>xidian university</provider>
+		<author>YMHJ</author>
+		<pluginname>Airplane Detection and Recognition</pluginname>
+		<pluginclass>Detection</pluginclass>
+		<time>2021-07-2021-11</time>
+	</research>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>A220</name>
+				<probability>0.13145784</probability>
+			</possibleresult>
+			<points>
+				<point>557.0576, 526.2124</point>
+				<point>557.0576, 597.10565</point>
+				<point>599.6465, 597.10565</point>
+				<point>599.6465, 526.2124</point>
+				<point>557.0576, 526.2124</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>A220</name>
+				<probability>0.015936904</probability>
+			</possibleresult>
+			<points>
+				<point>561.5963, 531.5447</point>
+				<point>561.5963, 595.0508</point>
+				<point>599.1709, 595.0508</point>
+				<point>599.1709, 531.5447</point>
+				<point>561.5963, 531.5447</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>A220</name>
+				<probability>0.0023438314</probability>
+			</possibleresult>
+			<points>
+				<point>552.14575, 525.0698</point>
+				<point>552.14575, 597.4093</point>
+				<point>599.63684, 597.4093</point>
+				<point>599.63684, 525.0698</point>
+				<point>552.14575, 525.0698</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Boeing737-800</name>
+				<probability>0.8913555</probability>
+			</possibleresult>
+			<points>
+				<point>472.0548, 535.25946</point>
+				<point>472.0548, 596.22546</point>
+				<point>566.7185, 596.22546</point>
+				<point>566.7185, 535.25946</point>
+				<point>472.0548, 535.25946</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Boeing737-800</name>
+				<probability>0.069747195</probability>
+			</possibleresult>
+			<points>
+				<point>473.85876, 538.0021</point>
+				<point>473.85876, 596.8594</point>
+				<point>565.6217, 596.8594</point>
+				<point>565.6217, 538.0021</point>
+				<point>473.85876, 538.0021</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Boeing737-800</name>
+				<probability>0.0039055168</probability>
+			</possibleresult>
+			<points>
+				<point>471.0117, 533.63965</point>
+				<point>471.0117, 596.0099</point>
+				<point>567.7719, 596.0099</point>
+				<point>567.7719, 533.63965</point>
+				<point>471.0117, 533.63965</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>other</name>
+				<probability>0.05546042</probability>
+			</possibleresult>
+			<points>
+				<point>474.5207, 538.6008</point>
+				<point>474.5207, 597.225</point>
+				<point>564.9966, 597.225</point>
+				<point>564.9966, 538.6008</point>
+				<point>474.5207, 538.6008</point>
+			</points>
+		</object>
+	</objects>
+</annotation>
